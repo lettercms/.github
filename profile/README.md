@@ -23,5 +23,5 @@ Our vision is to improve the way content is created, promoted and delivered. Off
 - [Unsplash API](https://unsplash.com/) - Photo Stock
 - [Firebase](https://firebase.google.com/) - File Storage
 - [Sentry](https://sentry.io) - Error Management
-- [Brain.JS](https://brain.js.org) - Machine Learning Engine
-- [QStash](https://upstash.com) - Schedule System and Cron Jobs
+- [Brain.JS](https://brain.js.org) - Machine Learning
+- [QStash](https://upstash.com) - Scheduling and Cron Jobs
